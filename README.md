@@ -4,7 +4,7 @@
 The project is created with React using the hook useReduce. The main task is to practise useReduce Hook as well as apply Custom Hooks
 , in our case UseGlobalContext hook. The idea  is  create a functional cart that is constantly updated once products added into it 
 ## Links
-[Drrible Idea of Mahmudur Rahman ](https://dribbble.com/shots/15487383-Beauty-Product-Shop-App)
+[Dribble Idea of Mahmudur Rahman ](https://dribbble.com/shots/15487383-Beauty-Product-Shop-App)
 
 
 ![Cart](https://github.com/barcelo2/Cart-React/blob/main/Cart/src/Screenshot%20.png "Cart")
